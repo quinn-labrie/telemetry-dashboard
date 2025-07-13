@@ -61,7 +61,7 @@ const Dashboard: React.FC = () => {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">Grid Telemetry Dashboard</h1>
+      <h1 className="text-2xl font-bold mb-4">Telemetry Dashboard</h1>
 
       <div className="bg-white rounded-lg shadow p-6">
         <div className="flex flex-wrap justify-between mb-6">

@@ -14,8 +14,8 @@ A simple dashboard that displays simulated grid telemetry data including voltage
 - Next.js
 - TypeScript
 - React
-- Recharts for data visualization
-- Tailwind CSS for styling
+- Recharts
+- Tailwind
 
 ## Setup Instructions
 
