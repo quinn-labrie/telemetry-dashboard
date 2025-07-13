@@ -17,6 +17,10 @@ A simple dashboard that displays simulated grid telemetry data including voltage
 - Recharts
 - Tailwind
 
+## Why This?
+
+I find data visualization to be interesting and can be a very direct and impactful way to utilize my skills. I also thought generating the mockup data for the charts would be a fun challenge. 
+
 ## Setup Instructions
 
 1. Clone the repository
